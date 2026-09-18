@@ -26,7 +26,7 @@ The application uses MySQL to store and manage:
 - Account information
 - Banking transactions
 
-The database structure and table definitions are provided in "database.sql".
+The database were created and managed through MySQL during development.
 
 Project Structure
 
